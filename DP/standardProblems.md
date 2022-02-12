@@ -2,7 +2,7 @@
 
 - [x] Coin Change
 - [ ] Edit Distance
-- [ ] Rod Cutting
+- [x] Rod Cutting
 - [x] Longest Increasing Subsequence
 - [x] Knapsack
   - Subset Problem
