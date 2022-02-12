@@ -1,0 +1,18 @@
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+1.cpp
+2.cpp
+3.cpp
+DP/1.cpp
+in.txt
+out.txt
+DP/in.txt
+DP/out.txt
+template.cpp
+shortcuts.md
+.vscode/
+questionsToRevisit.md
